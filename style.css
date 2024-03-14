@@ -1,0 +1,51 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+
+}
+.welcome{
+    background-color: black;
+    color: white;
+    text-align: left;
+    flex: row;
+
+
+}
+
+#navbar{
+    color: black;
+    padding: 2px;
+    margin:1px;
+    text-align: left;
+    display:flex;
+    gap: 10%;
+
+}
+.a{
+margin: 15%;
+width: 50%;
+height: auto;
+margin-top: 4%;
+margin-bottom: 2%;
+
+}
+
+
+.b{
+flex-wrap: wrap;
+display: flex
+
+
+
+}
+
+.e{
+    flex-wrap: wrap;
+    margin-left: 30%;
+    margin-top: 2%;
+}
+
+@media screen and (max-width: 600px) {
+
+}
